@@ -32,7 +32,7 @@ const data = [
         image: "https://randomuser.me/api/portraits/women/4.jpg"
     },
     {
-        name: "Karlson",
+        name: "Karlson",   
         age: 32,
         gender: "Male",
         lookingfor: "Female",
