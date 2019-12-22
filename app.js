@@ -9,7 +9,7 @@ const data = [
     },
     {
         name: "Jen Smith",
-        age: 22,
+        age: 22,   
         gender: "Female",
         lookingfor: "Male",
         location: "Cameroon",
